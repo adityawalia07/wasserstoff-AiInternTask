@@ -213,26 +213,4 @@ document-chatbot/
   - Batch query processing
   - Vector database integration
 
-## 🤝 Contributing
 
-This application is designed for research and educational purposes. Key areas for contribution:
-- Additional file format support
-- Enhanced text preprocessing
-- Alternative similarity metrics
-- UI/UX improvements
-
-## 📄 License
-
-This project is provided as-is for educational and research purposes.
-
-## 🆘 Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Verify all dependencies are installed
-3. Ensure proper environment setup
-4. Review error messages in the Streamlit interface
-
----
-
-**Built with ❤️ using Streamlit, scikit-learn, and Groq API**
